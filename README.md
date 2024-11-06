@@ -3,15 +3,15 @@
 ---
 ## SCREENSHOTS
 ### Home Page
-![dashboard snap](https://github.com/sumitkumar1503/vehicleservicemanagement/blob/master/static/screenshots/home.png?raw=true)
+![dashboard snap](https://github.com/Hetprajapati12/Vehicle-service-management-System/blob/main/static/screenshots/home.png)
 ### Admin Dashboard Dark theme
-![dashboard snap](https://github.com/sumitkumar1503/vehicleservicemanagement/blob/master/static/screenshots/admin_dark.png?raw=true)
+![dashboard snap](https://github.com/Hetprajapati12/Vehicle-service-management-System/blob/main/static/screenshots/admin_dark.png)
 ### Admin Dashboard Light theme
-![dashboard snap](https://github.com/sumitkumar1503/vehicleservicemanagement/blob/master/static/screenshots/admin_light.png?raw=true)
+![dashboard snap](https://github.com/Hetprajapati12/Vehicle-service-management-System/blob/main/static/screenshots/admin_light.png)
 ### Mechanic Dashboard
-![dashboard snap](https://github.com/sumitkumar1503/vehicleservicemanagement/blob/master/static/screenshots/mechanic_dashboard.png?raw=true)
+![dashboard snap](https://github.com/Hetprajapati12/Vehicle-service-management-System/blob/main/static/screenshots/mechanic_dashboard.png)
 ### Customer Dashboard
-![dashboard snap](https://github.com/sumitkumar1503/vehicleservicemanagement/blob/master/static/screenshots/customer_dashboard.png?raw=true)
+![dashboard snap](https://github.com/Hetprajapati12/Vehicle-service-management-System/blob/main/static/screenshots/customer_dashboard.png)
 ---
 ## FUNCTIONS
 ## Customer
